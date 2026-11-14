@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi 👋, I'm Omar!
 
-<!--
-**OmarIslam248/OmarIslam248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Eng Electrical Engineering | Ontario Tech University | Oshawa, ON
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Third-year Electrical Engineering (Co-op) student at Ontario Tech University (4.09 cGPA) seeking electrical or electronics engineering roles. Strong foundation in circuit design, signals & systems, power systems, electromagnetics, microprocessors, and communication theory. Experienced in SolidWorks CAD, circuit simulation (MultiSim), hardware testing equipment, and computational modeling (MATLAB, Verilog, C++, Python) through design projects and hands-on testing/repair at Canaweld. Proven track record leading team design projects from concept to prototype, as well as working independently on quality control, troubleshooting, and project management. 
+
+---
+
+## Languages & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+Also experienced with:
+
+- VHDL and Verilog (digital logic design)
+- Nios II Assembly (microcontroller architecture)
+
+---
+
+## Algorithms & Computer Science
+
+- Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees
+- Sorting & Searching Algorithms
+- Object-Oriented Design & Design Patterns
+- Time & Space Complexity Analysis
+- Problem Solving & Algorithmic Thinking
+
+---
+
+## Electrical & Embedded Systems
+
+- DC & AC Circuit Analysis
+- Circuit Simulation using Multisim
+- Signal Analysis using MATLAB
+- SPICE Netlist Generation
+- Flight controller and motor controller setup with Arduino via Arduino
+- Sensor Integration & Signal Processing
+- Hardware–Software Co-Design
+
+---
+
+## CAD & Engineering Design
+- Solidworks (3D modeling & mechanical design)
+- Electronic enclosure and component housing design
+- Assembly modeling for embedded systems projects
+
+---
+
+## Cybersecurity Knowledge
+- Incident Response
+- System & Network Security
+- Vulnerability Management
+- Governance, Risk & Compliance (GRC)
+
+---
+
+## Contact
+
+Email: 2006omarislam@gmail.com
