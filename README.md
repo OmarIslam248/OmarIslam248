@@ -53,14 +53,23 @@ Also experienced with:
 
 ---
 
-## Cybersecurity Knowledge
-- Incident Response
-- System & Network Security
-- Vulnerability Management
-- Governance, Risk & Compliance (GRC)
+## Certifications
+- Learning Verilog for FPGA Development (LinkedIn Learning)
+- Learning Soldering for Electronics (LinkedIn Learning)
+- Learning Arduino: Interfacing with Hardware and Analog Devices (LinkedIn Learning)
+- Excel Essential Training (LinkedIn Learning).
+
+---
+
+## Engineering Interests
+- Robotics & Embedded Systems
+- Digital Logic & FPGA Design
+- Automation & Control Systems
+- Artificial Intelligence in Engineering Applications
 
 ---
 
 ## Contact
-
+omar.islam@ontariotechu.net
+www.linkedin.com/in/omar-islam-1847922a9 
 Email: 2006omarislam@gmail.com
