@@ -27,8 +27,8 @@ Also experienced with:
 ## Electrical & Embedded Systems
 
 - DC & AC Circuit Analysis
-- Circuit Simulation using Multisim
-- Signal Analysis using MATLAB and KiCad
+- Circuit Simulation using Multisim and KiCad
+- Signal Analysis using MATLAB
 - SPICE Netlist Generation
 - Flight controller and motor controller setup with Arduino via Arduino
 - Sensor Integration & Signal Processing
