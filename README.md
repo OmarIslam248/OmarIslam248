@@ -24,16 +24,6 @@ Also experienced with:
 
 ---
 
-## Algorithms & Computer Science
-
-- Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees
-- Sorting & Searching Algorithms
-- Object-Oriented Design & Design Patterns
-- Time & Space Complexity Analysis
-- Problem Solving & Algorithmic Thinking
-
----
-
 ## Electrical & Embedded Systems
 
 - DC & AC Circuit Analysis
@@ -43,6 +33,16 @@ Also experienced with:
 - Flight controller and motor controller setup with Arduino via Arduino
 - Sensor Integration & Signal Processing
 - Hardware–Software Co-Design
+
+---
+
+### Algorithms & Computer Science
+
+- Data Structures: Arrays, Linked Lists, Stacks
+- Sorting & Searching Algorithms
+- Object-Oriented Design & Design Patterns
+- Time & Space Complexity Analysis
+- Problem Solving & Algorithmic Thinking
 
 ---
 
