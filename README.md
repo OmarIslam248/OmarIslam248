@@ -57,7 +57,8 @@ Also experienced with:
 - Learning Verilog for FPGA Development (LinkedIn Learning)
 - Learning Soldering for Electronics (LinkedIn Learning)
 - Learning Arduino: Interfacing with Hardware and Analog Devices (LinkedIn Learning)
-- Excel Essential Training (LinkedIn Learning).
+- Excel Essential Training (LinkedIn Learning)
+- MATLAB Onramp (MathWorks Training Services)         
 
 ---
 
